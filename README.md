@@ -1,5 +1,3 @@
-Projekt sygnalizacji świetlnej skrzyżowania
-
 Projekt automatycznego sterowania sygnalizacją świetlną skrzyżowania wykonany w środowisku CODESYS.
 
 Sterowanie ruchem odbywa się poprzez załączanie naprzeciwległych kierunków.
